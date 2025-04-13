@@ -1,13 +1,1 @@
--- key
-local fuckyouzyronhub = 'rhFXoFi5nZZh4o7Quoi211{{X({4}arBZax1_{_io]fF_8batZ'
-
--- print and copy key
-print(fuckyouzyronhub) -- print
-setclipboard(fuckyouzyronhub) -- copy
-local hint = Instance.new("Hint",game.CoreGui)
-hint.Text = "Key Copied! Your key: "..fuckyouzyronhub
-
--- load hub
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ZyronHub/Aimbot/refs/heads/main/lua"))()
-wait(2)
-hint:Destroy()
+deleted
